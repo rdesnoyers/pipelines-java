@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rdesnoyers/Orano%20Applications/_apis/build/status/rdesnoyers.pipelines-java?branchName=master)](https://dev.azure.com/rdesnoyers/Orano%20Applications/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
